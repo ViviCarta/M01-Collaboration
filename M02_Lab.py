@@ -4,6 +4,7 @@ Subject: SDEV 220
 Last Revised: 1-28-2024
 File Name: M02_Lab
 Module #: M02 Lab - Case Study: if...else and while
+Github URL: https://github.com/ViviCarta/M01-Collaboration.git
 Purpose: This app takes student names and GPAs to 
 identify whether the student qualifies for either 
 the Dean's list or Honor Roll.
