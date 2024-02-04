@@ -3,7 +3,8 @@ Professor: Ray Storer
 Subject: SDEV 220
 Last Revised: 2-4-2024
 Module #: M03 Tutorial - Functional vs OOP Programming
-Github URL: https://github.com/ViviCarta/M01-Collaboration.git"""
+Github URL: https://github.com/ViviCarta/M01-Collaboration.git
+"""
 
 # Sort an array of 0s, 1s and 2
 
